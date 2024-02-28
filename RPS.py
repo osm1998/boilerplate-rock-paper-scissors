@@ -31,7 +31,7 @@ def player(prev_play, opponent_history=[]):
         #to predict the move that can be played by the bot , we base our thinking on the simple fact that the sequence that happened the most is more probable to be played than other sequences
         
         
-        #---------------------------------------------------------------UP to this point the code beats all the bots over 60% 100% of the times but abbey ---------------------------------------------------#
+        
      
         if sum(proba) == 0 : 
             
